@@ -15,4 +15,8 @@ Video of program: https://vimeo.com/user129594501/review/492915432/a42278e319
 Program description:<br>
 Stores user's information into ArrayList. Update user's balance and display to user. Generate cc number per user when registered. 
 
+Next projects:
+-Spring Boot<br>
+-ReactJS
+
 
